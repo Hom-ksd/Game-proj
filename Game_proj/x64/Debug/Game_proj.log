@@ -1,0 +1,525 @@
+﻿  AboutMenu.cpp
+  Bosses.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(75,136): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(128,93): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(128,80): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(131,108): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(131,90): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(131,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(149,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(150,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(224,105): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(224,87): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(224,53): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(227,90): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(227,77): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(237,107): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(237,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(237,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(240,92): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bosses.cpp(240,79): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  DeadMenu.cpp
+  enemies.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(75,136): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(128,93): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(128,80): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(131,108): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(131,90): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(131,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(149,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(150,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(224,105): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(224,87): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(224,53): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(227,90): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(227,77): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(237,107): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(237,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(237,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(240,92): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies.cpp(240,79): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  enemies2.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(128,93): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(128,80): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(131,108): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(131,90): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(131,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(149,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(150,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(224,105): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(224,87): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(224,53): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(227,90): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(227,77): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(237,107): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(237,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(237,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(240,92): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\enemies2.cpp(240,79): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  EXP.cpp
+  Foods.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Foods.cpp(5,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Foods.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gameEngine.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\DeadMenu.h(12,1): warning C4005: 'maxItem': macro redefinition
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Menu.h(12): message : see previous definition of 'maxItem'
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\LeaderBoard.h(13,1): warning C4005: 'maxItem': macro redefinition
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\DeadMenu.h(12): message : see previous definition of 'maxItem'
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(29,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(29,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(37,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(37,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(39,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(39,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(41,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(41,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(43,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(43,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(45,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(45,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(47,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(47,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(324,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(332,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(333,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(335,201): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(335,164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(338,204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(338,167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(405,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(405,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(414,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(414,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(415,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(415,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(416,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(416,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(417,85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(417,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(443,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(445,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(471,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(491,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(511,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(651,131): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(651,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(680,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(681,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(701,76): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(715,76): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(729,75): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(821,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(821,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(822,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(822,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(823,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(823,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(824,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\gameEngine.cpp(824,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameState.cpp
+  InputnameMenu.cpp
+  LeaderBoard.cpp
+  Menu.cpp
+  PauseMenu.cpp
+  Player.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Player.cpp(15,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Player.cpp(179,8): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Player.cpp(180,8): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Bullet.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bullet.cpp(20,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Bullet.cpp(48,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\DeadMenu.h(12,1): warning C4005: 'maxItem': macro redefinition
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Menu.h(12): message : see previous definition of 'maxItem'
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\LeaderBoard.h(13,1): warning C4005: 'maxItem': macro redefinition
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\DeadMenu.h(12): message : see previous definition of 'maxItem'
+  State.cpp
+  Tile.cpp
+  TileMap.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\TileMap.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Wands.cpp
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Wands.cpp(28,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Wands.cpp(69,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Wands.cpp(70,30): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Wands.cpp(83,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Wands.cpp(84,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Wands.cpp(91,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\Wands.cpp(91,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Game_proj.vcxproj -> C:\Users\tobe1\Desktop\Prog Proj\Game_proj\x64\Debug\Game_proj.exe

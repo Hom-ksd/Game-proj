@@ -1,0 +1,5 @@
+﻿AboutMenu.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+AboutMenu.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::White" (?White@Color@sf@@2V12@B)
+AboutMenu.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Red" (?Red@Color@sf@@2V12@B)
+DeadMenu.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Black" (?Black@Color@sf@@2V12@B)
+C:\Users\tobe1\Desktop\Prog Proj\Game_proj\x64\Release\Game_proj.exe : fatal error LNK1120: 4 unresolved externals
